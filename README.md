@@ -11,6 +11,8 @@ Step1:
 pip install -r requirements.txt
 Step2:
 run "python birdPlumber.py"
+Step3:
+run "RunGame.bat"
 ```
 
 # Game Display
