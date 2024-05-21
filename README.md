@@ -15,3 +15,5 @@ run "python birdPlumber.py"
 
 # Game Display
 ![giphy](demonstration/running.gif)
+
+更新测试
