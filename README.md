@@ -22,14 +22,18 @@ Jiaye Liu（刘家烨）_美术
 
 # How to play
 Complete the start of the game through "space" and the repeated jumping of the character "bird".  
-没有复杂的操作，有手就行，只通过简单的“空格键”即可完成全部内容，包括开始、跳跃、重玩等操作。
+没有复杂的操作，有手就行，只通过简单的“空格键”即可完成全部内容，包括开始、跳跃、重玩等操作。  
+
+  The game has two modes: night and day, appearing randomly.  
+  游戏有两种模式：黑夜与白天，随机出现。  
+   
+  ![ffb5d3b4882f331c5d8d9c7fb173349](https://github.com/MUST-MoXiaoshan/birdPlumber/assets/170191361/a6cea676-ff84-43fa-9992-3c25073f1c19)
 
 # File Description  
   Double-click "RunGame.bat" to start the game.  
   贴心的设置了一键启动游戏，通过双击“RunGame.bat”即可立即开始游戏，无需通过“.py”的繁复启动。  
 
-    The game has two modes: night and day, appearing randomly.  
-    游戏有两种模式：黑夜与白天，随机出现。  
+
     
 
 # Environment
