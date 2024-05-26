@@ -1,5 +1,5 @@
 # Game Demo
-![birdPlumber_Record screen 00_00_00-00_00_30](https://github.com/MUST-MoXiaoshan/birdPlumber/assets/170191361/065d66c8-4e5a-4332-8d21-ec6d446a469f)
+![birdPlumber_Record screen1 00_00_00-00_00_30](https://github.com/MUST-MoXiaoshan/birdPlumber/assets/170191361/d2a66453-4147-4556-9e24-aab031cb2578)
 
 
 # Project Overview
