@@ -32,7 +32,8 @@ Complete the start of the game through "space" and the repeated jumping of the c
 # File Description  
   Double-click "RunGame.bat" to start the game.  
   贴心的设置了一键启动游戏，通过双击“RunGame.bat”即可立即开始游戏，无需通过“.py”的繁复启动。  
-
+  
+  ![d6bf724b777c921a728df47e0399708](https://github.com/MUST-MoXiaoshan/birdPlumber/assets/170191361/95fa9a52-a3fa-4d92-8866-95fc21f73eb5) 
 
     
 
