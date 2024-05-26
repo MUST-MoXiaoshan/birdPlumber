@@ -20,9 +20,13 @@ Xiaoshan Mo（莫小山）_程序
 Ke Zhang（张珂）_美术  
 Jiaye Liu（刘家烨）_美术
 
+# How to play
+Complete the start of the game through "space" and the repeated jumping of the character "bird".  
+没有复杂的操作，有手就行，只通过简单的“空格键”即可完成全部内容，包括开始、跳跃、重玩等操作。
+
 # File Description  
-  Double-click "RunGame.bat" to start the game.
-  贴心的设置了一键启动游戏，通过双击“RunGame.bat”即可立即开始游戏，无需通过“.py”的繁复启动
+  Double-click "RunGame.bat" to start the game.  
+  贴心的设置了一键启动游戏，通过双击“RunGame.bat”即可立即开始游戏，无需通过“.py”的繁复启动。
 
 # Environment
 ```
@@ -40,7 +44,6 @@ Step3:
 run "RunGame.bat"
 ```
 
-# Game Display
-![giphy](demonstration/running.gif)
+
 
 更新测试
